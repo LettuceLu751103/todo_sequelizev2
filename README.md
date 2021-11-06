@@ -19,7 +19,7 @@
 ### 專案安裝流程
 1. 下載專案
 ``` 
-git clone 
+git clone https://github.com/LettuceLu751103/todo_sequelizev2.git
 ```
 2. 安裝套件
 ```
