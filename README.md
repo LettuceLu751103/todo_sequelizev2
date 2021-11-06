@@ -2,7 +2,7 @@
   使用 node.JS 平台搭配後端 express 框架建立待辦清單網站, 前端則是使用bootstrap框架, 內容涵蓋使用者可以進行簡易的事項之增、刪、改、查...等
   
 ### 專案畫面
-![image]()
+![image](https://github.com/LettuceLu751103/todo_sequelizev2/blob/master/todo_list_sequelize.png)
 
 ### 產品功能
 1. 使用者可以瀏覽待辦清單
